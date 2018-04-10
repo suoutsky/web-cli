@@ -1,0 +1,27 @@
+{
+  "code": "string",
+  "success": true,
+  "data": [
+    {
+      "account": "string",
+      "canRecharge": true,
+      "dingUserId": "string",
+      "email": "string",
+      "enable": true,
+      "gmtCreate": "2018-03-06T12:40:16.228Z",
+      "gmtModified": "2018-03-06T12:40:16.228Z",
+      "id": 0,
+      "isRoleSuperAuth": true,
+      "mobile": "string",
+      "name": "string",
+      "sensitiveDataAuth": true,
+      "staffId": 0,
+      "superAdmin": true,
+      "systemIdSet": [
+        0
+      ],
+      "tokenSecret": "string"
+    }
+  ],
+  "desc": "string"
+}

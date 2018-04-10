@@ -1,0 +1,15 @@
+{
+  "code": "0",
+  "desc": "成功",
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "riskAllId": 111109,
+      "riskReviewer": "1",
+      "reviewResult": 1,
+      "reviewAction": "234234",
+      "reviewTime": "2018-03-06"
+    }
+  ]
+}

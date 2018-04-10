@@ -1,0 +1,132 @@
+{
+  "code": "string",
+  "data": {
+    "list": [
+      {
+        "cheatGrade": "1",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "2",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "3",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "4",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "6",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "5",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": null,
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "string",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "string",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      },
+      {
+        "cheatGrade": "string",
+        "curDate": "2018-03-26T10:45:59.608Z",
+        "preResult": 0,
+        "preRiskReviewer": "string",
+        "reviewRemarks": "string",
+        "reviewResult": 0,
+        "riskReviewer": "string",
+        "slotId": 0,
+        "slotName": "string"
+      }
+    ],
+    "sum": {
+      "cheatGrade": "string",
+      "curDate": "2018-03-26T10:45:59.608Z",
+      "preResult": 0,
+      "preRiskReviewer": "string",
+      "reviewRemarks": "string",
+      "reviewResult": 0,
+      "riskReviewer": "string",
+      "slotId": 0,
+      "slotName": "string"
+    },
+    "totalCount": 88,
+    "totalPage": 9
+  },
+  "desc": "string",
+  "success": true
+}

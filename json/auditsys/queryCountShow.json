@@ -1,0 +1,15 @@
+{
+  "code": "string",
+  "data": {
+    "cheatGradeFive": 10,
+    "cheatGradeFour": 110,
+    "cheatGradeOne": 1110,
+    "cheatGradeSix": 1110,
+    "cheatGradeThree": 11110,
+    "cheatGradeTwo": 110,
+    "cheatGradeZero": 110,
+    "toDOCount": 10
+  },
+  "desc": "string",
+  "success": true
+}
