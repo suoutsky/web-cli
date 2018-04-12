@@ -1,6 +1,6 @@
 import React from 'react'
 import PureRenderMixin from 'react-addons-pure-render-mixin'
-
+import Search from './components/Search'
 
 class Dataquery extends React.Component{
     constructor(props, context){
@@ -13,7 +13,7 @@ class Dataquery extends React.Component{
     render(){
         return (
             <div>
-                12222
+               <Search/>
             </div>
         )
     }

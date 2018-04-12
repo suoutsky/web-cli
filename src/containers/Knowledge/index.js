@@ -11,7 +11,7 @@ class Knowledge extends React.Component{
     render(){
         return (
           <div className="page-knowledge">
-            <iframe src="http://cf.dui88.com/pages/viewpage.action?pageId=7684198" frameBorder="0"></iframe>
+            <iframe src="http://cf.dui88.com/pages/viewpage.action?pageId=7684198" frameBorder="0" title="konwledge"></iframe>
           </div>
         )
     }

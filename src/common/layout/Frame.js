@@ -2,8 +2,8 @@ import './Frame.less';
 import React, { Component } from 'react';
 import PureRenderMixin from 'react-addons-pure-render-mixin';
 import { Layout, Menu, Icon } from 'antd';
-import { BrowserRouter as Router, Route, IndexRoute, Link } from "react-router-dom";
-import NotFound from './404';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+// import NotFound from './404';
 import Dataquery from '../../containers/Dataquery';
 import Knowledge from '../../containers/Knowledge';
 
